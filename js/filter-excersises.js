@@ -21,7 +21,6 @@ const people = [
   { name: "Jill", age: 35 },
   { name: "Katie", age: 28 },
   { name: "Martha", age: 27 },
-  { name: "Felice", age: 19 },
 ];
 
 const filteredPeople = people.filter((person) => {
